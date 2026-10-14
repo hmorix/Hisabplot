@@ -1,0 +1,6 @@
+{
+  "name": "HisabPilot",
+  "description": "AI-powered invoice and receipt extraction tool for Indian small businesses, freelancers, and accountants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
