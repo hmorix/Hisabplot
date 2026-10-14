@@ -1,6 +1,8 @@
 # HisabPilot — AI Paperwork Assistant for Small Businesses
 
 > **"Your invoices, organized in seconds."**
+> 
+> 🌐 **Live Demo**: [https://hisabpilot.harshsharma.tech](https://hisabpilot.harshsharma.tech)
 
 HisabPilot is an AI-powered document extraction tool tailored for Indian freelancers, shopkeepers, small businesses, and accountants. It parses GST tax invoices, retail receipts, bills of supply, and cash memos in JPG, JPEG, PNG, and PDF formats—or captures them live via a mobile device camera.
 
@@ -50,8 +52,8 @@ HisabPilot is an AI-powered document extraction tool tailored for Indian freelan
 
 ### 2. Installation
 ```bash
-git clone https://github.com/your-username/hisab-pilot.git
-cd hisab-pilot
+git clone https://github.com/harshsharma/hisabpilot.git
+cd hisabpilot
 npm install
 ```
 
